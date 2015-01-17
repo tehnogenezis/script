@@ -1,7 +1,8 @@
 ### [Сценарий анимационного фильма "Техногенезис"](/Technogenezis_script.md)
 
 По фантастическому рассказу [Техногенезис](https://github.com/tehnogenezis/story)
-Синопсис: [tehnogenezis_synopsys.md](/tehnogenezis_synopsys.md)
+
+[Синопсис](/Tehnogenezis_synopsys.md)
 
 ##### Автор истории: Александр Мещеряков
 ##### Версия: 0.1
