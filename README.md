@@ -2,7 +2,7 @@
 
 По фантастическому рассказу [Техногенезис](https://github.com/tehnogenezis/story)
 
-[Синопсис](/Tehnogenezis_synopsys.md)
+[Синопсис](/Technogenezis_synopsys.md)
 
 ##### Автор истории: Александр Мещеряков
 ##### Версия: 0.1
